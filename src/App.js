@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import "bootstrap/dist/css/bootstrap.min.css";
 import './App.css';
 import CityButtons from './components/CityButtons';
 import { cities } from "./utils";
